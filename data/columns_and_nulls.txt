@@ -1,0 +1,120 @@
+SHAPE
+(180519, 53)
+
+ALL COLUMNS
+00. Type
+01. Days for shipping (real)
+02. Days for shipment (scheduled)
+03. Benefit per order
+04. Sales per customer
+05. Delivery Status
+06. Late_delivery_risk
+07. Category Id
+08. Category Name
+09. Customer City
+10. Customer Country
+11. Customer Email
+12. Customer Fname
+13. Customer Id
+14. Customer Lname
+15. Customer Password
+16. Customer Segment
+17. Customer State
+18. Customer Street
+19. Customer Zipcode
+20. Department Id
+21. Department Name
+22. Latitude
+23. Longitude
+24. Market
+25. Order City
+26. Order Country
+27. Order Customer Id
+28. order date (DateOrders)
+29. Order Id
+30. Order Item Cardprod Id
+31. Order Item Discount
+32. Order Item Discount Rate
+33. Order Item Id
+34. Order Item Product Price
+35. Order Item Profit Ratio
+36. Order Item Quantity
+37. Sales
+38. Order Item Total
+39. Order Profit Per Order
+40. Order Region
+41. Order State
+42. Order Status
+43. Order Zipcode
+44. Product Card Id
+45. Product Category Id
+46. Product Description
+47. Product Image
+48. Product Name
+49. Product Price
+50. Product Status
+51. shipping date (DateOrders)
+52. Shipping Mode
+
+NULL COUNTS
+Customer Lname              8
+Customer Zipcode            3
+Order Zipcode          155679
+Product Description    180519
+dtype: int64
+
+DATA TYPES
+Type                                 str
+Days for shipping (real)           int64
+Days for shipment (scheduled)      int64
+Benefit per order                float64
+Sales per customer               float64
+Delivery Status                      str
+Late_delivery_risk                 int64
+Category Id                        int64
+Category Name                        str
+Customer City                        str
+Customer Country                     str
+Customer Email                       str
+Customer Fname                       str
+Customer Id                        int64
+Customer Lname                       str
+Customer Password                    str
+Customer Segment                     str
+Customer State                       str
+Customer Street                      str
+Customer Zipcode                 float64
+Department Id                      int64
+Department Name                      str
+Latitude                         float64
+Longitude                        float64
+Market                               str
+Order City                           str
+Order Country                        str
+Order Customer Id                  int64
+order date (DateOrders)              str
+Order Id                           int64
+Order Item Cardprod Id             int64
+Order Item Discount              float64
+Order Item Discount Rate         float64
+Order Item Id                      int64
+Order Item Product Price         float64
+Order Item Profit Ratio          float64
+Order Item Quantity                int64
+Sales                            float64
+Order Item Total                 float64
+Order Profit Per Order           float64
+Order Region                         str
+Order State                          str
+Order Status                         str
+Order Zipcode                    float64
+Product Card Id                    int64
+Product Category Id                int64
+Product Description              float64
+Product Image                        str
+Product Name                         str
+Product Price                    float64
+Product Status                     int64
+shipping date (DateOrders)           str
+Shipping Mode                        str
+dtype: object

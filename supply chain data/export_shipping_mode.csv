@@ -1,0 +1,5 @@
+shipping_mode,total_orders,late_rate_pct,avg_days_late,total_revenue,revenue_at_risk
+First Class,27814,100.0,1.0,5674369.76,5674369.76
+Second Class,35216,79.7,2.0,7145444.82,5698215.87
+Same Day,9737,47.8,0.5,1942528.56,916201.45
+Standard Class,107752,39.8,-0.0,22022391.88,8736398.09
